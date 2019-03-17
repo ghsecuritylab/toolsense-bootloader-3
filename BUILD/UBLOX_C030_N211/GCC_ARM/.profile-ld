@@ -57,7 +57,7 @@
         "GNSSBAUD=9600", 
         "HSE_VALUE=12000000", 
         "MBEDTLS_CONFIG_HW_SUPPORT", 
-        "MBED_BUILD_TIMESTAMP=1552774650.53", 
+        "MBED_BUILD_TIMESTAMP=1552858447.86", 
         "SDCS=PE_11", 
         "SDMISO=PE_5", 
         "SDMOSI=PE_6", 

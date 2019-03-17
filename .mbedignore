@@ -2,3 +2,4 @@ Debug/*
 Release/*
 Develop/*
 bootloader/*
+mbed-os/*
