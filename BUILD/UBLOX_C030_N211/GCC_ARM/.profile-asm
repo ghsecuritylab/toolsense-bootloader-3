@@ -1,0 +1,22 @@
+{
+    "flags": [
+        "-x", 
+        "assembler-with-cpp"
+    ], 
+    "macros": [], 
+    "symbols": [
+        "ARM_MATH_CM4", 
+        "GNSSBAUD=9600", 
+        "HSE_VALUE=12000000", 
+        "MBEDTLS_CONFIG_HW_SUPPORT", 
+        "SDCS=PE_11", 
+        "SDMISO=PE_5", 
+        "SDMOSI=PE_6", 
+        "SDSCK=PE_2", 
+        "TRANSACTION_QUEUE_SIZE_SPI=2", 
+        "__CMSIS_RTOS", 
+        "__CORTEX_M4", 
+        "__FPU_PRESENT=1", 
+        "__MBED_CMSIS_RTOS_CM"
+    ]
+}

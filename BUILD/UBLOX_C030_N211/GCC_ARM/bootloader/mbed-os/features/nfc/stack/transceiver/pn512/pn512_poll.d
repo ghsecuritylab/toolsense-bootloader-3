@@ -1,0 +1,31 @@
+BUILD\UBLOX_C030_N211\GCC_ARM\bootloader\mbed-os\features\nfc\stack\transceiver\pn512\pn512_poll.o: \
+ E:\GIT\ToolSense\toolsense-bootloader-training\bootloader\mbed-os\features\nfc\stack\transceiver\pn512\pn512_poll.c \
+ BUILD\UBLOX_C030_N211\GCC_ARM\mbed_config.h \
+ bootloader/mbed-os/features/nfc/stack/nfc_errors.h \
+ E:\GIT\ToolSense\toolsense-bootloader-training\bootloader\mbed-os\features\nfc\stack\transceiver\pn512\pn512.h \
+ bootloader/mbed-os/features/nfc/stack/nfc_common.h \
+ bootloader/mbed-os/features/nfc/stack/nfc_errors.h \
+ bootloader/mbed-os/features/nfc/stack/platform/nfc_debug.h \
+ bootloader/mbed-os/features/nfc/acore/acore/ac_macros.h \
+ bootloader/mbed-os/features/nfc/acore/acore/ac_buffer.h \
+ bootloader/mbed-os/features/nfc/acore/acore/ac_buffer_reader.h \
+ bootloader/mbed-os/features/nfc/acore/acore/ac_buffer_builder.h \
+ bootloader/mbed-os/features/nfc/acore/acore/ac_stream.h \
+ bootloader/mbed-os/features/nfc/stack/transceiver/transceiver.h \
+ bootloader/mbed-os/featurensport.h \
+ bootloader/mbed-os/features/nfc/stack/platform/nfc_scheduler.h \
+ bootloader\mbed-os\features\nfc\stack\transceiver\pn512\pn512_types.h \
+ bootloader\mbed-os\features\nfc\stack\transceiver\pn512\pn512_callback.h \
+ bootloader\mbed-os\features\nfc\stack\transceiver\pn512\pn512_poll.h \
+ bootloader\mbed-os\features\nfc\stack\transceiver\pn512\pn512_transceive.h \
+ bootloader\mbed-os\features\nfc\stack\transceiver\pn512\pn512_registers.h \
+ bootloader\mbed-os\features\nfc\stack\transceiver\pn512\pn512_rf.h \
+ bootloader\mbed-os\features\nfc\stack\transceiver\pn512\pn512_cmd.h \
+ bootloader\mbed-os\features\nfc\stack\transceiver\pn512\pn512_internal.h \
+ bootloader/mbed-os/features/nfc/stack/transceiver/transceiver_internal.h \
+ bootloader/mbed-os/features/nfc/stack/transceiver/transceiver.h
+ader-training\bootloader\mbed-os\features\nfc\stack\transceiver\pn512\pn512_rf.h \
+ E:\GIT\ToolSense\toolsense-bootloader-training\bootloader\mbed-os\features\nfc\stack\transceiver\pn512\pn512_cmd.h \
+ E:\GIT\ToolSense\toolsense-bootloader-training\bootloader\mbed-os\features\nfc\stack\transceiver\pn512\pn512_internal.h \
+ bootloader/mbed-os/features/nfc/stack/transceiver/transceiver_internal.h \
+ bootloader/mbed-os/features/nfc/stack/transceiver/transceiver.h
